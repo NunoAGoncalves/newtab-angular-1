@@ -1,4 +1,4 @@
-DEMO: http://NunoAGoncalves.github.io/newtab-angular-1/#/
+DEMO: http://NunoAGoncalves.github.io/newtab-angular1/#/
 
 #Briefly
 Developed for personal use after changing from chrome to firefox.
